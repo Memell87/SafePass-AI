@@ -22,8 +22,8 @@ O **SafePass AI** é uma ferramenta de desktop moderna e eficiente projetada par
 
 ## 📸 Demonstração
 
-*(Dica: Tire um print da janela do seu programa, suba o arquivo para o GitHub e coloque o link da imagem aqui embaixo)*
-![Screenshot do SafePass AI](link-da-sua-imagem-aqui.png)
+<img width="1490" height="914" alt="app py" src="https://github.com/user-attachments/assets/ffcd7cec-dfb0-4241-b517-e9cc3c48c766" />
+
 
 ## 📦 Como rodar o projeto
 
