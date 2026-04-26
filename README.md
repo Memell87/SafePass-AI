@@ -25,8 +25,16 @@ O **SafePass AI** é uma ferramenta de desktop moderna e eficiente projetada par
 <img width="1490" height="914" alt="app py" src="https://github.com/user-attachments/assets/ffcd7cec-dfb0-4241-b517-e9cc3c48c766" />
 
 
-## 📦 Como rodar o projeto
 
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/seu-usuario/safepass-ai.git](https://github.com/seu-usuario/safepass-ai.git)
+ ##   📝 Roadmap / Próximos Passos
+Este projeto faz parte do meu portfólio em Análise e Desenvolvimento de Sistemas, e pretendo implementar as seguintes melhorias em breve:
+
+[ ] Implementar a função "Copiar para Área de Transferência".
+
+[ ] Adicionar um seletor de comprimento da senha (ex: 8 a 32 caracteres).
+
+[ ] Gerar executável (.exe) para uso direto no Windows.
+
+Desenvolvido por [Seu Nome/Dinho Rendeiro] 🚀
+
+Estudante de ADS focado em transformar lógica em interfaces incríveis.
