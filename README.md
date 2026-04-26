@@ -35,6 +35,6 @@ Este projeto faz parte do meu portfólio em Análise e Desenvolvimento de Sistem
 
 [ ] Gerar executável (.exe) para uso direto no Windows.
 
-Desenvolvido por [Seu Nome/Dinho Rendeiro] 🚀
+Desenvolvido por Daniel Maciel Gaio 🚀
 
 Estudante de ADS focado em transformar lógica em interfaces incríveis.
